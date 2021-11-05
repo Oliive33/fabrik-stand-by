@@ -99,11 +99,11 @@ li {
   }
 
   .title h2 {
-    font-size: 25px;
+    font-size: 22px;
   }
 }
 @media screen and (max-width: 400px) {
-  .title {
-    font-size: 18px;
+  .title h2 {
+    font-size: 17px;
   }
 }
